@@ -1,3 +1,6 @@
+![Header](./github-header-image.png)
+
+
 - 👋 Hi, I’m @SuzanFah
 - 👀 I’m interested in Learning💢, music🎶, dentistry🎠 & sports🏀
 - 🌱 I’m currently learning software engineering💻 & German🦚
