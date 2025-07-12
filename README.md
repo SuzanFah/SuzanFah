@@ -3,7 +3,8 @@
 
 - 👋 Hi, I’m @SuzanFah
 - 👀 I’m interested in Learning💢, music🎶, dentistry🎠 & sports🏀
-- 🌱 I’m currently learning software engineering💻 & German🦚
+- 🌱 ALX Fullstack SE Program Graduate 💻
+- Fluent in French, English & Arabic ..  German Intermediate 🦚
 - 💞️ I’m looking to collaborate on Github📯 & Discord🎆 also active member on FCC🧿
 - 📫 How to reach me @susiefahim 😎
 
